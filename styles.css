@@ -1,0 +1,23 @@
+#bagua-table th {
+    text-align: center;
+    font-weight: bold;
+}
+
+#bagua-table td {
+    width: 150px;
+    white-space: nowrap;
+    text-align: center;
+    vertical-align: bottom;
+    padding-top: 5px;
+    padding-bottom: 12px;
+}
+
+#bagua-table .highlight {
+    background: red;
+}
+
+table, td, tr {
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+}
